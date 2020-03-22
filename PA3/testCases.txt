@@ -1,0 +1,29 @@
+TEST CASES FOR STRLEN:
+cse30
+cat
+property
+
+TEST CASES FOR STRCMP:
+cse30, cse12
+CSE30, cse30
+abc, abcde
+abc, abc
+
+TEST CASES FOR STRTRUNC:
+cse30, 2
+cse30, 6
+cse30, 5
+
+TEST CASES FOR STRREV:
+cse30, 1, 3
+cse30, -1, 4
+cse30, 4, 3
+cse30, 1, 30
+cse30, 2, 2
+TEST CASES FOR PALINDROME:
+cse30
+racecar
+
+TEST CASES FOR STRFIND:
+cse30, a
+cse30, 30
